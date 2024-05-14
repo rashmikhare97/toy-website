@@ -1,0 +1,35 @@
+ScrollReveal().reveal('.section-1',{
+    duration:2000,
+    origin:'top',
+    distance:'10px',
+});
+ScrollReveal().reveal('.m1',{
+    duration:2000,
+    origin:'right',
+    distance:'10px',
+    delay:500
+});
+ScrollReveal().reveal('.m5',{
+    duration:2000,
+    origin:'top',
+    distance:'10px',
+    delay:1000
+});
+ScrollReveal().reveal('.m2',{
+    duration:2000,
+    origin:'left',
+    distance:'10px',
+    delay:1500
+});
+ScrollReveal().reveal('.m3',{
+    duration:2000,
+    origin:'top',
+    distance:'10px',
+    delay:2000
+});
+ScrollReveal().reveal('.m4',{
+    duration:2000,
+    origin:'bottom',
+    distance:'10px',
+    delay:2000
+});
